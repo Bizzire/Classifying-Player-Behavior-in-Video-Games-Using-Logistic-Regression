@@ -15,3 +15,7 @@ sklearn.model_selection,
 sklearn.linear_model,
 seaborn,
 matplotlib.pyplot
+
+Project Recording:
+
+https://www.youtube.com/watch?v=PIn96fOrtes
